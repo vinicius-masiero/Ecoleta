@@ -9,7 +9,10 @@ class ItemsController {
       return {
         id: item.id,
         title: item.title,
+        // Use this url when using the web app
         image_url: `http://localhost:3333/uploads/${item.image}`
+        // Use this url when using the mobile app with an emulator
+        // image_url: `http://192.168.0.3:3333/uploads/${item.image}`
       };
     });
   
