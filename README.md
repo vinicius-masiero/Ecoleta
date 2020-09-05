@@ -6,7 +6,7 @@
 
 ### Web Screenshot
 <div>
-   <img src="./.github/home.png" width="800px">
+   <img src="./.github/home.png" width="900px">
 </div>
 
 # :computer: Technologies
