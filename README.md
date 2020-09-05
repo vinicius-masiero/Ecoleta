@@ -7,8 +7,8 @@
 ### Web Screenshot
 <div>
   <img src="./.github/home.png" width="900px">
-  <img src="./.github/cadastro1.png" width="900px">
-  <img src="./.github/cadastro2.png" width="900px">
+  <img src="./.github/cadastro-topo.png" width="900px">
+  <img src="./.github/cadastro-inferior.png" width="900px">
 </div>
 
 # :computer: Technologies
