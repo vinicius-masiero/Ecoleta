@@ -5,8 +5,8 @@
 </div>
 
 ### Web Screenshot
-<div align="center">
-   <img src="./.github/home.png" width="400px">
+<div>
+   <img src="./.github/home.png" width="800px">
 </div>
 
 # :computer: Technologies
